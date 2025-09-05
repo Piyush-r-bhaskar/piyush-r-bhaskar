@@ -2,7 +2,7 @@
 # Hey 👋,
 
 # ╰┈➤ GitHub:
-<img src="https://github-readme-stats.vercel.app/api?username=piyush-r-bhaskar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=transparent&title_color=03D87F&border_color=03D87F&icon_color=03D87F">
+<img src="https://github-readme-stats.vercel.app/api?username=piyush-r-bhaskar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&show_icons=true&theme=transparent&title_color=03D87F&border_color=03D87F&icon_color=03D87F&border_radius=10">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-r-bhaskar&border_radius=10&border_color=03D87F">
 
 # ⚡️ Tech Stack:
