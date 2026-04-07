@@ -2,8 +2,10 @@
 # Hey 👋,
 
 
-![](https://github-readme-stats.vercel.app/api?username=piyush-r-bhaskar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=piyush-r-bhaskar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Piyush-r-bhaskar&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=7B42BC&point=7B42BC&line=38BDF8)
+
+[![](https://streak-stats.demolab.com?user=piyush-r-bhaskar&theme=prussian&hide_border=true&card_width=600)](https://git.io/streak-stats)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=piyush-r-bhaskar&icon=0&color=0)](https://visitcount.itsvg.in)
