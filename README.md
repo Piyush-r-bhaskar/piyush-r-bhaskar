@@ -2,8 +2,8 @@
 # Hey 👋,
 
 
-
 [![](https://streak-stats.demolab.com?user=piyush-r-bhaskar&theme=prussian&hide_border=true&card_width=600)](https://git.io/streak-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=piyush-r-bhaskar&count_private=true&show_icons=true&hide=stars&layout=compact)](https://github.com/juwit) 
 
 
 # ⚡️ Tech Stack:
