@@ -1,7 +1,7 @@
 
 # Hey 👋,
 
-
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Piyush-r-bhaskar&theme=midnight_sakura&hide_title=true&hide=trend%2Cactive_day)
 [![](https://streak-stats.demolab.com?user=piyush-r-bhaskar&theme=prussian&hide_border=true&card_width=600)](https://git.io/streak-stats)
 
 
