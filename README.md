@@ -63,10 +63,10 @@ Kestra's syntax themes, published as <code>@kestra-io/plumage</code>: one palett
 |:--|:--|--:|
 | `flows` | [Switch between flows from the breadcrumb](https://github.com/kestra-io/kestra/pull/23192) | Nov 26 |
 | `design-system` | [Pebble variables in their own color](https://github.com/kestra-io/kestra/pull/22932) | Nov 19 |
-| `flows` | [Review AI Copilot flow drafts on the graph](https://github.com/kestra-io/kestra/pull/22893) | Nov 19 |
 | `dashboards` | [Set the color, label and order of chart values](https://github.com/kestra-io/kestra/pull/22555) | Nov 13 |
 | `namespaces` | [Create a child namespace from the breadcrumb](https://github.com/kestra-io/kestra/pull/22540) | Nov 12 |
 | `topology` | [Render the graph outside the Kestra UI](https://github.com/kestra-io/kestra/pull/22534) | Nov 11 |
+| `design-system` | [Drop unused components from bundles](https://github.com/kestra-io/kestra/pull/22533) | Nov 11 |
 <!-- SHIPPED:END -->
 
 ## Tools

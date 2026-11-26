@@ -7,7 +7,7 @@ readme="${1:-README.md}"
 shipped=$(gh api -X GET search/issues \
     -f q="is:pr is:merged is:public author:${user} org:kestra-io" \
     -f sort=created -f order=desc -f per_page=100 \
-    --jq '.items[] | select(.title | test("^feat")) | [.title, .html_url, .closed_at[0:10]] | @tsv' \
+    --jq '.items[] | select(.title | test("^feat")) | select(.title | test("copilot"; "i") | not) | [.title, .html_url, .closed_at[0:10]] | @tsv' \
     | awk -F'\t' '!seen[$1]++' \
     | head -n 6 \
     | while IFS=$'\t' read -r title url date; do
