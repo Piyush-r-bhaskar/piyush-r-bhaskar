@@ -48,15 +48,13 @@ A rebuilt timeline of every task in a run, with live durations, log levels and f
 The page people open after every run: status, labels, timeline and the topology of what ran.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/kestra-io/kestra/pull/16545"><img src="./assets/work-copilot.jpg" alt="AI Copilot" width="100%" /></a>
+<a href="https://www.npmjs.com/package/@kestra-io/plumage"><img src="./assets/work-plumage.jpg" alt="Plumage" width="100%" /></a>
 <br/><br/>
-<b>AI Copilot</b><br/>
-A new home for turning a prompt into a flow, with starter prompts and the draft reviewed on the graph.
+<b>Plumage</b><br/>
+Kestra's syntax themes, published as <code>@kestra-io/plumage</code>: one palette for the editor, markdown, the docs and VS Code, with Pebble highlighted inside YAML.
 </td>
 </tr>
 </table>
-
-Also: the [Kestra code themes](https://github.com/kestra-io/kestra/pull/22305) used across the app, docs and console, the [folder-style namespace breadcrumb](https://github.com/kestra-io/kestra/pull/19906), the [Policies UI](https://github.com/kestra-io/kestra/pull/17243), the [system overview](https://github.com/kestra-io/kestra/pull/16912), and most of the marketing pages on [kestra.io](https://kestra.io).
 
 ## Lately
 
