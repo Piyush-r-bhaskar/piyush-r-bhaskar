@@ -1,12 +1,80 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+  <img src="./assets/hero-light.svg" alt="Piyush Bhaskar, frontend engineer at Kestra" width="100%" />
+</picture>
 
-# Hey 👋,
+I work on the frontend of [Kestra](https://github.com/kestra-io/kestra), an open-source orchestration platform. Most of my days go into Vue 3, TypeScript and the design system the whole app is built from: components, tokens, and making dark mode feel designed rather than inverted.
 
-[![](https://streak-stats.demolab.com?user=piyush-r-bhaskar&theme=prussian&hide_border=true&card_width=600)](https://git.io/streak-stats)
+## On GitHub
 
+<div align="center">
 
-# ⚡️ Tech Stack:
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Prime Vue](https://img.shields.io/badge/PrimeVue-41B883.svg?style=for-the-badge&logo=PrimeVue&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) !![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Piyush-r-bhaskar&show_icons=true&include_all_commits=true&bg_color=00000000&title_color=b27aff&text_color=e6edf3&icon_color=b27aff&border_color=3d444d&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Piyush-r-bhaskar&show_icons=true&include_all_commits=true&bg_color=00000000&title_color=8405ff&text_color=1f2328&icon_color=8405ff&border_color=d1d9e0&border_radius=8" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Piyush-r-bhaskar&show_icons=true&include_all_commits=true&bg_color=00000000&title_color=8405ff&text_color=1f2328&icon_color=8405ff&border_color=d1d9e0&border_radius=8" alt="GitHub stats" height="150" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Piyush-r-bhaskar&background=00000000&border=3d444d&stroke=3d444d&ring=b27aff&fire=b27aff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=b27aff&sideLabels=e6edf3&dates=9198a1&border_radius=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Piyush-r-bhaskar&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=8405ff&fire=8405ff&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=8405ff&sideLabels=1f2328&dates=59636e&border_radius=8" />
+  <img src="https://streak-stats.demolab.com?user=Piyush-r-bhaskar&background=00000000&border=d1d9e0&stroke=d1d9e0&ring=8405ff&fire=8405ff&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=8405ff&sideLabels=1f2328&dates=59636e&border_radius=8" alt="GitHub streak" height="150" />
+</picture>
 
+</div>
 
----
-# 🖐
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/kestra-io/kestra/pull/16758"><img src="./assets/work-dashboards.jpg" alt="Dashboards and charts" width="100%" /></a>
+<br/><br/>
+<b>Dashboards and charts</b><br/>
+The 2.0 dashboards: stacked charts, status donuts and tables that share one tooltip and one color system.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/kestra-io/kestra/pull/16680"><img src="./assets/work-gantt.jpg" alt="Execution Gantt" width="100%" /></a>
+<br/><br/>
+<b>Execution Gantt</b><br/>
+A rebuilt timeline of every task in a run, with live durations, log levels and filters.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/kestra-io/kestra/pull/16629"><img src="./assets/work-execution.jpg" alt="Execution overview" width="100%" /></a>
+<br/><br/>
+<b>Execution overview</b><br/>
+The page people open after every run: status, labels, timeline and the topology of what ran.
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/kestra-io/kestra/pull/16545"><img src="./assets/work-copilot.jpg" alt="AI Copilot" width="100%" /></a>
+<br/><br/>
+<b>AI Copilot</b><br/>
+A new home for turning a prompt into a flow, with starter prompts and the draft reviewed on the graph.
+</td>
+</tr>
+</table>
+
+Also: the [Kestra code themes](https://github.com/kestra-io/kestra/pull/22305) used across the app, docs and console, the [folder-style namespace breadcrumb](https://github.com/kestra-io/kestra/pull/19906), the [Policies UI](https://github.com/kestra-io/kestra/pull/17243), the [system overview](https://github.com/kestra-io/kestra/pull/16912), and most of the marketing pages on [kestra.io](https://kestra.io).
+
+## Lately
+
+<!-- SHIPPED:START -->
+| Area | Shipped | Merged |
+|:--|:--|--:|
+| `flows` | [Switch between flows from the breadcrumb](https://github.com/kestra-io/kestra/pull/23192) | Nov 26 |
+| `design-system` | [Pebble variables in their own color](https://github.com/kestra-io/kestra/pull/22932) | Nov 19 |
+| `flows` | [Review AI Copilot flow drafts on the graph](https://github.com/kestra-io/kestra/pull/22893) | Nov 19 |
+| `dashboards` | [Set the color, label and order of chart values](https://github.com/kestra-io/kestra/pull/22555) | Nov 13 |
+| `namespaces` | [Create a child namespace from the breadcrumb](https://github.com/kestra-io/kestra/pull/22540) | Nov 12 |
+| `topology` | [Render the graph outside the Kestra UI](https://github.com/kestra-io/kestra/pull/22534) | Nov 11 |
+<!-- SHIPPED:END -->
+
+## Tools
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tools-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tools-light.svg" />
+  <img src="./assets/tools-light.svg" alt="Vue 3, TypeScript, Pinia, Element Plus, Vite, Vitest, Storybook, Playwright, Figma, design tokens, light and dark themes" width="100%" />
+</picture>
